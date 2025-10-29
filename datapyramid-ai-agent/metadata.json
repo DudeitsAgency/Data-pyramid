@@ -1,0 +1,5 @@
+{
+  "name": "DataPyramid AI Agent",
+  "description": "A fully autonomous AI agent for DataPyramid, a platform themed around a dark ancient Egyptian temple. This agent serves as the central intelligence behind the system, guiding users through campaign creation, strategy, execution, analytics, and insights.",
+  "requestFramePermissions": []
+}
